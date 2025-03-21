@@ -1,8 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-N:Ramirez;Ilaes;Mariana;;
-FN:Ilaes Marina Ramirez
+FN:Ventas Cerdo Cervalle
 TEL:+57 3164781922
 EMAIL;TYPE=WORK: ventascerdo@cervalle.com 
 END:VCARD`;
